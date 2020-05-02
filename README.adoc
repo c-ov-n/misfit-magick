@@ -1,0 +1,7 @@
+# Misfit Magick
+
+Chaos magick at the intersection of Maat and Isfit
+
+## About this Repository
+
+This repository is for a book, in Asciidoc.
